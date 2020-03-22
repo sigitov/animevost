@@ -1,1 +1,1 @@
-{"counter":"2","servers":[{"server1":"s1.animecdn.online","server2":"s2.animecdn.online"}]}
+{"counter":"2","servers":[{"title":"main","url":"s1.animecdn.online"},{"title":"slave1","url":"s2.animecdn.online"}]}
